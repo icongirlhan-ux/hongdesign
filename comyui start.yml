@@ -1,0 +1,2 @@
+Whenever I push code to the main branch, automatically log in to my server and
+execute that deploy.sh script.
